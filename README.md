@@ -1,7 +1,7 @@
 # Machine Learning Projects
 
 ## Kaggle: 
-- [x] [Give me Some Credit]()
+- [x] [Give Me Some Credit]()
 
 </br>
 
