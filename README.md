@@ -1,7 +1,7 @@
 # Machine Learning Projects
 
 ## Kaggle: 
-- [x] [Give Me Some Credit]()
+- [x] [Give Me Some Credit](https://github.com/Sally-Ng/Kaggle_Give_Me_Some_Credit/tree/master)
 
 </br>
 
