@@ -19,7 +19,8 @@
 </br>
 </br>
 
-### Kaggle- Give Me Some Credit
+### Kaggle:
+[Give Me Some Credit](https://github.com/Sally-Ng/Kaggle_Give_Me_Some_Credit/tree/master) </br>
 Language: Python (scikit-learn, Matplotlib, pandas, NumPy) </br> 
 Skills: Machine Learning, Data Exploration, Data Visualization </br>
 Built Supervised Machine Learning models to predicting the probability that somebody will experience 
