@@ -1,5 +1,4 @@
 # Machine Learning Projects
-</br>
 
 ## Kaggle: 
 - [x] [Give me Some Credit]()
