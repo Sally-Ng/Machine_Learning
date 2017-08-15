@@ -27,5 +27,5 @@ Built Supervised Machine Learning models to predicting the probability that some
 financial distress in the next two years. Received a score of 0.77 and the winner of the competition had a score of 0.87.   
 
 <p align="left">
-  <img src="kaggle_give_me_some_credit.JPG" width="800"/>
+  <img src="kaggle_give_me_some_credit.JPG" width="400"/>
 </p>
