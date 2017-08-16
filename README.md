@@ -29,6 +29,7 @@ financial distress in the next two years. Received a score of 0.77 and the winne
   <img src="kaggle_give_me_some_credit.JPG" width="500"/>
 </p>
 </br>
+
 ### Udacity Machine Learning Nanodegree
 [Project 1: Predicting Boston Housing Prices](https://github.com/Sally-Ng/MLND-Predicting_Boston_Housing_Prices) </br>
 Language: Python (scikit-learn, pandas, NumPy) </br> 
