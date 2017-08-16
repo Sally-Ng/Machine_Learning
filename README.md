@@ -8,11 +8,11 @@
 ## Udacity Machine Learning Nanodegree [(Link)](https://github.com/Sally-Ng/Udacity_Machine_Learning_Nanodegree) 
 
 ### Projects
-- [x] [Project 1: Predicting Boston Housing Prices(Supervised Learning)](https://github.com/Sally-Ng/MLND-Predicting_Boston_Housing_Prices)
-- [ ] Project 2: Finding Donors for CharityML(Supervised Learning)
-- [ ] Project 3: Creating Customer Segments(Unsupervised Learning)
-- [ ] Project 4: Train a Smartcab to Drive(Reinforcement Learning)
-- [ ] Project 5: Dog Breed Classifier(Deep Learning)
+- [x] [Project 1: Predicting Boston Housing Prices (Supervised Learning)](https://github.com/Sally-Ng/MLND-Predicting_Boston_Housing_Prices)
+- [ ] Project 2: Finding Donors for CharityML (Supervised Learning)
+- [ ] Project 3: Creating Customer Segments (Unsupervised Learning)
+- [ ] Project 4: Train a Smartcab to Drive (Reinforcement Learning)
+- [ ] Project 5: Dog Breed Classifier (Deep Learning)
 - [ ] Project 6: Capstone Project
 
 </br>
