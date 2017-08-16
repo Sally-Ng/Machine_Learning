@@ -28,9 +28,9 @@ financial distress in the next two years. Received a score of 0.77 and the winne
 <p align="left">
   <img src="kaggle_give_me_some_credit.JPG" width="500"/>
 </p>
-
+</br>
 ### Udacity Machine Learning Nanodegree
-[Project 1: Predicting Boston Housing Prices](https://github.com/Sally-Ng/MLND-Predicting_Boston_Housing_Prices)
+[Project 1: Predicting Boston Housing Prices](https://github.com/Sally-Ng/MLND-Predicting_Boston_Housing_Prices) </br>
 Language: Python (scikit-learn, pandas, NumPy) </br> 
 Skills: Machine Learning, Data Exploration </br>
 Built Supervised Machine Learning model to estimate the best selling price of houses in Boston, Massachusetts. Distinguished the Decision Tree model preformed the best with a maximum depth of 4.   
